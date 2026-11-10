@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+contracts/cache/
+contracts/artifacts/
+contracts/deployments/
+backend/.local_store/
+backend/__pycache__/
+**/__pycache__/
+frontend/dist/
+.env
+.pytest_cache/
